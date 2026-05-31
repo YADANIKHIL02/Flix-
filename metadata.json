@@ -1,0 +1,6 @@
+{
+  "name": "FLIX",
+  "description": "An immersive, premium cinema streaming portal featuring detailed horizontal sliders, custom profile personas, and an interactive AI Mood Curator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
